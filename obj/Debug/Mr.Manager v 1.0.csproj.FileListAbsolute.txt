@@ -1,0 +1,22 @@
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.exe.config
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.exe
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.pdb
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.csprojResolveAssemblyReference.cache
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.DetailsForm.resources
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.Properties.Resources.resources
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.StartForm.resources
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.csproj.GenerateResource.Cache
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.exe
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.pdb
+c:\users\suji\documents\visual studio 2013\Projects\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.SettingAndPlan.resources
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.exe.config
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.exe
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.pdb
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.DetailsForm.resources
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.Properties.Resources.resources
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.SettingAndPlan.resources
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager_v_1._0.StartForm.resources
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\obj\Debug\Mr.Manager v 1.0.csproj.GenerateResource.Cache
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.exe
+C:\Users\Hanya\Desktop\Mr.Manager v 1.0\Mr.Manager v 1.0\bin\Debug\Mr.Manager v 1.0.pdb
